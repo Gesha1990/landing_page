@@ -132,7 +132,7 @@ h1 p {
 
 .products .products_item {
   margin-right: 20px;
-  width: 30%;
+  width: 25%;
   position: relative;
 }
 
@@ -159,7 +159,7 @@ h1 p {
 .products_item .slider {
   position: absolute;
   top: 50%;
-  left: 90%;
+  left: 87%;
 }
 
 .slider img {
