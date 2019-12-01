@@ -382,6 +382,13 @@ footer {
     margin: 25px 0 20px 15px;
     text-decoration: none;
   }
+  .shop_enter img{
+    width: 34px;
+  }
+  .shop_enter span{
+    font-size: 14px;
+  }
+
 
   .products {
     flex-direction: column;
