@@ -115,13 +115,16 @@ h1 p {
 
 .shop_enter {
   display: flex;
-  height: 21px;
+  align-items:  center;
+  height: 61px;
   margin: 150px 0 31px 50px;
   text-decoration: none;
 }
-
+.shop_enter span{
+  font-size: 24px;
+}
 .shop_enter img {
-  width: 30px;
+  width: 40px;
 }
 
 .products {
