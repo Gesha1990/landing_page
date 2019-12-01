@@ -159,7 +159,7 @@ h1 p {
 .products_item .slider {
   position: absolute;
   top: 50%;
-  left: 95%;
+  left: 89%;
 }
 
 .slider img {
@@ -263,7 +263,7 @@ h1 p {
 }
 
 .intstagram .istagram_imgs {
-  margin-top: 20px 5px;
+  margin: 20px 5px;
 }
 
 .istagram_imgs img {
@@ -452,6 +452,9 @@ footer {
   }
 
   .istagram_imgs img:not(:nth-child(2n)) {
+    display: none;
+  }
+  .istagram_imgs img:last-child {
     display: none;
   }
 
